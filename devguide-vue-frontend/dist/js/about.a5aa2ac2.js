@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdevguide_vue_frontend"]=self["webpackChunkdevguide_vue_frontend"]||[]).push([[443],{7381:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var t=u(3396);const r={class:"about"},a=(0,t._)("h1",null,"This is an about page",-1),s=[a];function d(e,n){return(0,t.wg)(),(0,t.iD)("div",r,s)}var i=u(89);const c={},o=(0,i.Z)(c,[["render",d]]);var f=o}}]);
+//# sourceMappingURL=about.a5aa2ac2.js.map
